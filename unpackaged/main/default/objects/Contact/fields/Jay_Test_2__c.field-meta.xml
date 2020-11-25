@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Jay_Test_2__c</fullName>
+    <displayFormat>A-{0000}</displayFormat>
+    <externalId>false</externalId>
+    <label>Jay Test 2</label>
+    <type>AutoNumber</type>
+</CustomField>
